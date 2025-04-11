@@ -30,7 +30,7 @@ More generally, data availability is a fundamental limitation for an amateur ini
 - Once enough data has been collected in this way I would also like to set up a GAN to see both how good we can get these kinds of fakes, and how good we can get at detecting them
 
 ## Notes
-- The provided notebook is entended to be run in Google Colab as it includes a few bits of Colab-specific code, but should be easily adapted to any other environment. A GPU is recommended. 
+- The provided notebook is intended to be run in Google Colab as it includes a few bits of Colab-specific code, but should easy to adapt to any other environment (a GPU is strongly recommended).
 - I am intentionally not sharing the prompts I used to generate those fake images as I feel that would be irresponsible. If you are interested in collaborating on this project, please reach out.
 
 ## Usage
